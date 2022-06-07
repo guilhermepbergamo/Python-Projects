@@ -1,2 +1,2 @@
 # Python-Projects
- Projects made with Pyhton
+ Projects made with various python libraries.
